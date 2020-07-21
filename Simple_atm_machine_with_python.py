@@ -7,8 +7,8 @@ ATM Makinesine Hoşgeldiniz...
 ******************** 
 """)
 
-sys_kullanıcı_adı = "beren"
-sys_kullanıcı_şifre = "berenintatlıyanağı"
+sys_kullanıcı_adı = "user"
+sys_kullanıcı_şifre = "password"
 giriş_hakkı = 3
 bakiye = 100
 
